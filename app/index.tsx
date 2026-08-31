@@ -246,7 +246,7 @@ const styles = StyleSheet.create({
     left: 0,
     right: 0,
     height: 120,
-    background: 'transparent',
+    backgroundColor: 'transparent',
   },
   centerGlow: {
     position: 'absolute',

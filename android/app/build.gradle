@@ -108,7 +108,7 @@ android {
             if (keystorePropsFile.exists()) {
                 keystoreProps.load(new FileInputStream(keystorePropsFile))
             }
-            storeFile file(keystoreProps.getProperty('storeFile', '../ALTOMEDIA/keystore/ALTOMEDIA.jks'))
+            storeFile file(keystoreProps.getProperty('storeFile', '../../ALTOMEDIA/keystore/ALTOMEDIA.jks'))
             storePassword keystoreProps.getProperty('storePassword', '')
             keyAlias keystoreProps.getProperty('keyAlias', 'kdsmedia')
             keyPassword keystoreProps.getProperty('keyPassword', '')

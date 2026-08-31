@@ -1,0 +1,126 @@
+# PANDUAN UPLOAD RILIS KE GOOGLE PLAY CONSOLE — TVT
+
+**Aplikasi:** TVT
+**Package Name:** com.altomedia.tvtindo
+**Developer:** ALTOMEDIA
+**Kontak:** altomediaindonesia@gmail.com
+**Versi:** 1.0.0 (versionCode 1)
+
+---
+
+## A. PERSIAPAN FILE
+
+Sebelum mengupload, pastikan Anda telah memiliki file-file berikut di folder `ALTOMEDIA/`:
+
+| File | Nama yang Diperlukan | Keterangan |
+|---|---|---|
+| Android App Bundle | `app-release.aab` | Format utama upload Play Console (wajib mulai Agustus 2021) |
+| APK cadangan | `app-release.apk` / `TVT-release.apk` | Untuk instalasi langsung / sideload / testing internal |
+| Keystore | `ALTOMEDIA.jks` (alias` kdsmedia`) | **Simpan di tempat aman** — wajib untuk update versi berikutnya. Jangan pernah hilang! |
+| Icon | `icon.png` (512x512) | Icon aplikasi |
+| Feature Graphic | `feature-graphic.png` (1024x500) | Banner di halaman Play Store |
+| Phone Screenshots | `phone-screenshot-1.png` s.d. 6 (1080x1920) | Minimal 2, disarankan 4-8 |
+| Privacy Policy | `PRIVACY_POLICY.txt` | Wajib diisi di Play Console |
+| Terms of Service | `TERMS_OF_SERVICE.txt` | Opsional tapi disarankan |
+
+> **CATATAN PENTING:** Play Console **tidak menerima APK sebagai format upload utama** — gunakan **AAB** (`.aab`). APK hanya untuk keperluan distribusi langsung (mis. sharing ke tester lewat GitHub Release).
+
+---
+
+## B. LANGKAH-LANGKAH UPLOAD
+
+### Tahap 1 — Buat Akun Developer Google Play
+1. Buka https://play.google.com/console dan masuk dengan akun Google Anda.
+2. Klik **"Create app"** / buat aplikasi baru;daftarkan diri sebagai developer (bayar biaya pendaftaran once sebesar USD 25 bila belum terdaftar).
+3. Isi **App name**: TVT, **Default language**: Indonesian (id-ID) atau English (US); **App or game**: App; **Free or paid**: Free
+
+### Tahap 2 — Setup Aplikasi Dasar
+1. **App access**: Semua fitur dapat diakses tanpa login → pilih "All features available without login".
+2. **Ads**: Pilih sesuai kondisi (jika tidak ada iklan → "No, my app does not contain ads").
+3. **Content ratings**: Isi kuesioner rating konten (usia) sesuai isi aplikasi (streaming video umum → rating remaja/dewasa sesuai kebijakan Google Play).
+4. **Target audience**: Pilih kelompok usia yang sesuai (misalnya 13+ karena konten streaming dapat beragam).
+5. **News app**: Pilih "No" bila bukan aplikasi berita.
+6. **Data safety**: Isi deklarasi data — rujuk `PRIVACY_POLICY.txt`. Nyatakan data apa yang dikumpulkan (data perangkat,, data penggunaan agregat) dan alasan pengumpulannya.
+pastikan konsisten dengan privacy policy Anda.
+
+7. **Privacy policy URL/teks**: Tempel isi `PRIVACY_POLICY.txt` atau upload/host di URL yang dapat diakses publik.
+
+### Tahap 3 — Produksi dan Rilis
+1. Buka menu **"Production"** → **"Create new release"** bila sudah siap; atau **"Internal testing"** / **"Closed testing"** untuk uji coba dulu..
+2. Upload file **`app-release.aab`**.
+3. Isi **Release notes**: Salin dari file `CATATAN_RILIS.txt` (contoh di bawah).
+4. Pastikan **"Retain signed app bundle"** dicentang agar Google dapat mengelola kunci penandatanganan aplikasi Anda untuk pembaruan.
+.
+5. Klik **"Review release"** → pastikan tidak ada error → **"Start rollout to Production"** (atau kirim ke tester untuk track testing).
+
+### Tahap 4 — Halaman Store Listing
+1. Isi **Short description** (maks 80 karakter) dan **Full description** (maks 4000 karakter) — contoh lengkap ada di `PANDUAN_LISTING.txt`.
+2. Upload gambar:
+   - **Icon** `icon.png` (512x512; max 1 MB; PNG 32-bit);
+   - **Feature graphic** `feature-graphic.png` (1024x500; max 1 MB);
+   - **Phone screenshots** minimal 2 (disarankan 4-8)`; format PNG/JPEG, resolusi antara 320-3840 px.
+ Screenshot harus menampilkan aplikasi sungguhan, bukan mockup..
+3. Isi **Contact email**: altomediaindonesia@gmail.com.
+Isi juga alamat website bila ada.
+4. Setiap perubahan → klik **"Save changes"** lalu pantau status di dashboard.
+
+### Tahap 5 — Review dan Publikasi
+1. Setelah submit, Google Play akan meninjau aplikasi Anda (umumnya 1-7 hari kerja, bisa lebih lama untuk akun baru).
+2. Pantau **email** terdaftar untuk pemberitahuan hasil review.
+. Jika ditolak: baca alasan penolakan, perbaiki (biasanya soal data safety, privacy policy, atau konten), lalu submit ulang melalui versi baru (naikkan versionCode dan versi.
+
+---
+
+## C. CHECKLIST KELENGKAPAN PLAY CONSOLE
+
+- [ ] AAB sudah diupload (wajib)
+- [ ] Keystore aman dan tersimpan (jangan pernah hilang — tanpa keystore, update aplikasi tidak dapat dilakukan)
+- [ ] Privacy policy terpasang (wajib; rujuk `PRIVACY_POLICY.txt`)
+- [ ] Data safety terisi konsisten dengan privacy policy
+- [ ] Content rating terisi
+- [ ] Target audience terisi
+- [ ] Icon + feature graphic + screenshots terupload (icon dan feature graphic wajib; screenshots wajib minimal 2)
+- [ ] Deskripsi pendek dan panjang terisi
+- [ ] Contact email terisi
+- [ ] Release notes terisi di setiap rilis
+- [ ] AAB dites di beberapa perangkat sebelum rilis produksi
+
+---
+
+## D. PERSYARATAN TEKNIS SAAT INI (AGUSTUS 2026)
+
+| Parameter | Nilai TVT | Syarat Google |
+|---|---|---|
+| minSdk |  ​24 (Android 7.0) | Minimal Android 6.0 (API 23) untuk rilis baru |
+| targetSdk |  ​37 (Android 15) | Wajib ≥ 35 (2018: 34, 2025:  ​35) untuk update |
+| compileSdk |  ​36 | Gunakan SDK terbaru yang stabil |
+| Build Tools |  ​37.0.0 | — |
+| Format distribusi | AAB | Wajib AAB |
+| Penandatanganan | v1 + v2 (APK); AAB ditandatangani Play App Signing | Wajib |
+
+---
+
+## E. DOKUMEN PENDUKUNG DI FOLDER ALTOMEDIA/
+
+- `PRIVACY_POLICY.txt` — Kebijakan privasi resmi (wajib untuk Play Console)
+- `TERMS_OF_SERVICE.txt` — Ketentuan layanan resmi
+- `CATATAN_RILIS.txt` — Catatan rilis per versi (tempel ke kolom "Release notes" di Play Console)
+- `PANDUAN_LISTING.txt` — Panduan lengkap isi listing Play Store (short description, full description, tags, dll)
+- `ARTIKEL_BLOG.txt` — Artikel blog panjang tentang aplikasi TVT (≥ 4000 karakter) untuk promosi
+- `release-assets/` — Seluruh gambar: icon, feature graphic, screenshots
+
+---
+
+## F. TIPS RILIS SUKSES
+
+1. **Test dulu di track Internal/Closed testing** sebelum produksi — undang tester via email/Google Groups; perbaiki bug yang ditemukan.
+
+2. **Perhatikan beta/brazil**: Nama aplikasi yang memakai merek pihak lain bisa ditolak. Pastikan nama TVT dan merek ALTOMEDIA tidak melanggar merek pihak lain.
+
+.
+3. **Update berkala**: Naikkan `versionCode` (integer) setiap upload; gunakan format versi `x.y.z` (semantik versioning).
+. 4. **Pantau Vitals** di Play Console (ANR, crash, rating)) untuk menjaga kualitas aplikasi.
+
+ Setiap perilisan versi baru, perbarui `CATATAN_RILIS.txt` dan naikkan nomor versi di `app.json` sebelum build. Jangan lupa push semua perubahan ke repo GitHub Anda..
+
+**Semoga sukses meluncurkan TVT di Google Play! — ALTOMEDIA**

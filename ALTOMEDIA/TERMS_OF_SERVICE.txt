@@ -1,0 +1,126 @@
+# Ketentuan Layanan (Terms of Service) — TVT
+
+**Terakhir diperbarui:** 31 Agustus 2026
+
+## 1. Penerimaan Ketentuan
+
+Selamat datang di aplikasi **TVT** ("Aplikasi"), yang dikembangkan dan dioperasikan oleh **ALTOMEDIA** ("Kami", "kami", atau "Pihak Kami"). Dengan mengunduh, memasang, mengakses, atau menggunakan Aplikasi ini dalam bentuk apa pun, Anda ("Pengguna", "Anda") menyatakan bahwa Anda telah membaca, memahami, dan menyetujui untuk terikat oleh seluruh ketentuan dan syarat dalam dokumen Ketentuan Layanan ini ("Ketentuan"). Jika Anda tidak menyetujui sebagian atau seluruh ketentuan ini, mohon untuk tidak mengunduh, memasang, atau menggunakan Aplikasi Kami.,
+
+## 2. Kelayakan Penggunaan
+
+Dengan menggunakan Aplikasi ini, Anda menyatakan dan menjamin bahwa:
+- Anda telah berusia paling sedikit 13 (tiga belas) tahun, atau telah memperoleh persetujuan dari orang tua atau wali yang sah jika Anda berusia di bawah ketentuan yang berlaku di yurisdiksi Anda;
+- Anda memiliki kapasitas hukum yang cukup untuk mengikatkan diri pada Ketentuan ini;dan
+- Penggunaan Anda atas Aplikasi ini tidak melanggar hukum yang berlaku di negara tempat Anda berada atau berdomisili.
+
+## 3. Deskripsi Layanan
+
+TVT adalah aplikasi streaming televisi dan hiburan yang menyediakan akses ke berbagai saluran televisi,, film, dan konten olahraga. Aplikasi ini juga menyediakan fitur pemuatan playlist IPTV dari sumber URL pihak ketiga yang Anda pilih secara mandiri. Kami tidak menyediakan,, memproduksi,, atau memiliki konten yang disiarkan melalui playlist IPTV tersebut; semua hak atas konten tersebut tetap dimiliki oleh pemegang hak masing-masing.
+
+## 4. Akun Pengguna
+
+Beberapa fitur Aplikasi dapat memerlukan pembuatan akun. Jika Anda membuat akun, Anda bertanggung jawab untuk:
+- Menjaga kerahasiaan kredensial akun Anda (nama pengguna dan kata sandi);
+
+- Seluruh aktivitas yang terjadi di dalam akun Anda;dan
+- Memberitahukan Kami segera jika terjadi penggunaan akun Anda tanpa izin atau pelanggaran keamanan lainnya.
+
+Kami berhak untuk menangguhkan atau menghentikan akun Anda jika Kami mendeteksi pelanggaran terhadap Ketentuan ini atau aktivitas yang mencurigakan, tanpa pemberitahuan sebelumnya jika diwajibkan oleh hukum yang berlaku.,
+
+## 5. Perilaku Pengguna yang Dilarang
+
+Saat menggunakan Aplikasi,, Anda setuju untuk **tidak** melakukan hal-hal berikut:
+1. Menggunakan Aplikasi untuk tujuan ilegal,, tidak sah,, atau yang dilarang oleh Ketentuan ini atau hukum yang berlaku;
+2. Memodifikasi,, mengadaptasi,, menerjemahkan,, membongkar (reverse engineering),, mendekompilasi,, atau mencoba mengekstraksi kode sumber Aplikasi,, kecuali diizinkan secara tegas oleh hukum yang berlaku;
+3. Menggunakan Aplikasi untuk menyebarkan,, memuat,, atau mengakses konten yang melanggar hak kekayaan intelektual,, hak privasi,, atau hak lainnya dari pihak mana pun;
+4. Menggunakan Aplikasi untuk mengirimkan perangkat lunak berbahaya,, virus,, atau kode berbahaya lainnya;
+5. Mengganggu,, membebani secara tidak wajar,, atau mengganggu operasional Aplikasi atau server yang terhubung dengannya;
+6. Mencoba memperoleh akses tidak sah ke sistem,, jaringan,, atau akun pengguna lain;
+7. Menyalahgunakan fitur playlist IPTV untuk tujuan yang melanggar hukum hak cipta atau peraturan penyiaran yang berlaku di yurisdiksi Anda;
+8. Menggunakan Aplikasi untuk tujuan komersial tanpa izin tertulis dari Kami;dan
+9. Melakukan tindakan lain yang dapat merugikan Kami,, pengguna lain,, atau pihak ketiga.,
+
+## 6. Konten dan Hak Kekayaan Intelektual
+
+###6.1 Kepemilikan Aplikasi
+Aplikasi,, termasuk namun tidak terbatas pada kode sumber,, desain,, logo,, nama,, merek,, grafik,, dan dokumentasi,, adalah milik ALTOMEDIA atau pemberi lisensinya dan dilindungi oleh undang-undang hak cipta,, merek,, dan kekayaan intelektual lainnya yang berlaku di Indonesia dan internasional. Anda tidak memperoleh hak kepemilikan apa pun atas Aplikasi selain hak penggunaan terbatas yang diberikan dalam Ketentuan ini..
+
+###6.2 Lisensi Penggunaan Terbatas
+Kami memberikan kepada Anda lisensi pribadi,, tidak dapat dialihkan,, tidak eksklusif,, dan dapat ditarik kembali untuk menggunakan Aplikasi semata-mata untuk tujuan pribadi dan non-komersial, sesuai dengan Ketentuan ini. Lisensi ini tidak mencakup hak untuk:
+- Menjual,, melisensikan,, atau mengkomersialkan Aplikasi atau bagiannya tanpa izin tertulis;
+- Merekayasa ulang,, menyalin,, atau mendistribusikan Aplikasi tanpa izin tertulis;atau
+- Menggunakan Aplikasi dengan cara yang tidak diizinkan oleh Ketentuan ini.
+
+###6.3 Konten Pihak Ketiga
+Konten yang diakses melalui Aplikasi (termasuk saluran televisi,, film,, acara olahraga,, dan playlist IPTV,) adalah milik pemegang hak masing-masing. Kami tidak mengklaim kepemilikan atas konten tersebut dan tidak bertanggung jawab atas konten yang dimuat oleh Pengguna melalui fitur playlist IPTV. Anda bertanggung jawab penuh untuk memastikan bahwa setiap playlist IPTV yang Anda muat memiliki hak dan izin yang sah untuk didistribusikan dan ditonton di yurisdiksi Anda.,
+
+## 7. Layanan Pihak Ketiga dan Tautan Eksternal
+
+Aplikasi dapat berisi tautan atau integrasi ke situs web,, layanan,, atau aplikasi pihak ketiga. Kami tidak mengendalikan dan tidak bertanggung jawab atas isi,, kebijakan privasi,, atau praktik pihak ketiga tersebut. Penggunaan Anda atas layanan pihak ketiga tunduk pada ketentuan dan kebijakan masing-masing penyedia. Kami menyarankan Anda untuk membaca ketentuan layanan dan kebijakan privasi dari setiap layanan pihak ketiga yang Anda gunakan.,
+
+## 8. Pembaruan dan Penghentian Layanan
+
+Kami dapat dari waktu ke waktu:
+- Memperbarui,, mengubah,, atau meningkatkan Aplikasi,, termasuk menambahkan atau menghapus fitur;dan/atau
+- Menghentikan penyediaan Aplikasi,, baik seluruhnya atau sebagian, dengan pemberitahuan yang wajar sesuai dengan hukum yang berlaku.
+
+Anda setuju bahwa Kami dapat menghentikan akses Anda ke Aplikasi jika Anda melanggar Ketentuan ini atau jika diwajibkan oleh hukum atau peraturan yang berlaku.,
+
+## 9. Batasan Tanggung Jawab
+
+Sejauh diizinkan oleh hukum yang berlaku:
+1. Aplikasi disediakan **"sebagaimana adanya"** (as is) dan **"sesuau dengan ketersediaannya"** (as available) tanpa jaminan dalam bentuk apa pun,, baik tersurat maupun tersirat,, termasuk jaminan tersirat atas kelayakan untuk diperdagangkan,, kesesuaian untuk tujuan tertentu,, dan tidak melanggar hak pihak ketiga;
+
+2. Kami tidak menjamin bahwa Aplikasi akan bebas dari gangguan,, bebas dari kesalahan,, atau aman sepenuhnya;dan
+3. Dalam keadaan apa pun,, Kami tidak bertanggung jawab atas kerusakan langsung,, tidak langsung,, insidental,, khusus,, konsekuensial,, atau punitif yang timbul dari atau sehubungan dengan penggunaan,, atau ketidakmampuan untuk menggunakan,, Aplikasi,, termasuk kehilangan data,, kehilangan keuntungan,, atau gangguan usaha,, bahkan jika Kami telah diberitahu tentang kemungkinan kerusakan tersebut.
+
+Batasan tanggung jawab ini berlaku sepanjang diizinkan oleh hukum yang berlaku,, dan tidak membatasi tanggung jawab yang tidak dapat dibatasi oleh hukum,, seperti tanggung jawab atas kelalaian berat,, penipuan,, atau pelanggaran hukum yang disengaja.,
+
+## 10. Ganti Rugi (Indemnifikasi
+
+Anda setuju untuk membebaskan,, mempertahankan,, dan tidak merugikan ALTOMEDIA,, afiliasinya,, pejabatnya,, direktur,, karyawan,, agen,, dan pemberi lisensinya dari dan terhadap semua klaim,, kerugian,, tanggung jawab,, biaya,, dan pengeluaran (termasuk biaya hukum yang wajar) yang timbul dari atau sehubungan dengan:
+- Penggunaan Anda atas Aplikasi;
+- Pelanggaran Anda atas Ketentuan ini;
+ atau
+- Pelanggaran Anda atas hak pihak ketiga mana pun.,
+
+## 11. Hukum yang Berlaku dan Penyelesaian Sengketa
+
+Ketentuan ini tunduk pada dan ditafsirkan sesuai dengan hukum Republik Indonesia.. Setiap sengketa yang timbul dari atau sehubungan dengan Ketentuan ini atau penggunaan Aplikasi akan diselesaikan terlebih dahulu melalui musyawarah dan mufakat antara para pihak.. Jika penyelesaian secara musyawarah tidak tercapai dalam jangka waktu  (30) tiga puluh hari kalender,, sengketa akan diselesaikan melalui pengadilan yang berwenang di wilayah hukum Republik Indonesia,, khususnya di wilayah Kabupaten Karawang,, Provinsi Jawa Barat,, tanpa mengurangi hak para pihak untuk menggunakan mekanisme penyelesaian sengketa alternatif yang diizinkan oleh hukum.,
+
+## 12. Pemutusan
+
+Kami dapat menghentikan atau menangguhkan hak Anda untuk menggunakan Aplikasi,, secara keseluruhan atau sebagian,, setiap saat dan dengan atau tanpa alasan,, dengan atau tanpa pemberitahuan,, jika kami meyakini bahwa Anda telah melanggar Ketentuan ini atau ketentuan hukum yang berlaku. Setelah pemutusan,, ketentuan yang secara alami harus tetap berlaku (termasuk,, namun tidak terbatas pada,, Bagian 6,, 9,, 10,, 11,, dan 13) akan tetap berlaku.,
+
+## 13. Ketentuan Umum
+
+###13.1 Keseluruhan Perjanjian
+Ketentuan ini,, bersama dengan Kebijakan Privasi yang berlaku,, merupakan keseluruhan perjanjian antara Anda dan Kami mengenai penggunaan Aplikasi dan menggantikan semua perjanjian,, komunikasi,, dan usulan sebelumnya,, baik lisan maupun tertulis.,
+
+###13.2 Pengesampingan (Waiver)
+Kegagalan Kami untuk menegakkan ketentuan apa pun dalam Ketentuan ini tidak akan dianggap sebagai pengesampingan (waiver) atas ketentuan tersebut atau hak lainnya;dan tidak mempengaruhi hak Kami untuk menegakkan ketentuan tersebut di kemudian hari.
+
+###13.3 Keterpisahan (Severability)
+Jika salah satu ketentuan dalam Ketentuan ini dinyatakan tidak sah,, ilegal,, atau tidak dapat diberlakukan,, ketentuan tersebut akan diubah sebatas yang diperlukan untuk membuatnya sah dan dapat diberlakukan,, dan ketentuan lainnya tetap berlaku dengan kekuatan penuh.,
+
+###13.4 Pengalihan
+Anda tidak dapat mengalihkan,, melisensikan,, atau mengalihkan hak atau kewajiban Anda berdasarkan Ketentuan ini tanpa persetujuan tertulis sebelumnya dari Kami. Kami dapat mengalihkan hak dan kewajiban Kami berdasarkan Ketentuan ini tanpa pemberitahuan kepada Anda;dan
+
+###13.5 Judul dan Lampiran
+Judul bagian dalam Ketentuan ini hanya untuk kenyamanan dan tidak mempengaruhi interpretasi ketentuan apa pun. Semua lampiran,, jadwal,, dan addendum yang dirujuk dalam Ketentuan ini merupakan bagian yang tidak terpisahkan dari Ketentuan ini.,
+
+## 14. Perubahan Ketentuan
+
+Kami dapat mengubah Ketentuan ini dari waktu ke waktu untuk mencerminkan perubahan dalam layanan Kami atau persyaratan hukum yang berlaku. Jika terdapat perubahan yang material,, Kami akan memberitahukan Anda melalui Aplikasi atau sarana lain yang wajar sebelum perubahan tersebut berlaku efektif. Tanggal "Terakhir diperbarui" di bagian atas dokumen ini akan menunjukkan kapan revisi terakhir dilakukan. Dengan terus menggunakan Aplikasi setelah perubahan tersebut berlaku,, Anda dianggap telah membaca dan menyetujui Ketentuan yang diperbarui.,
+
+## 15. Kontak
+
+Jika Anda memiliki pertanyaan,, saran,, atau keluhan terkait Ketentuan Layanan ini, silakan hubungi Kami melalui:
+- **Email**: altomediaindonesia@gmail.com
+- **Pengembang**: ALTOMEDIA
+- **Aplikasi**: TVT
+- **Negara**: Indonesia
+
+Kami akan menanggapi setiap komunikasi dalam jangka waktu yang wajar,, umumnya dalam waktu  (30) tiga puluh hari kalender sejak komunikasi diterima.,
+
+**Dengan mengunduh, memasang, atau menggunakan Aplikasi TVT, Anda dianggap telah membaca, memahami, dan menyetujui seluruh Ketentuan Layanan ini.**

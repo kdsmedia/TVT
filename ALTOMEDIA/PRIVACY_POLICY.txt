@@ -1,0 +1,160 @@
+# Kebijakan Privasi (Privacy Policy) — TVT
+
+**Terakhir diperbarui:** 31 Agustus 2026
+
+## 1. Pendahuluan
+
+Selamat datang di aplikasi **TVT** (selanjutnya disebut "Aplikasi"), yang dikembangkan oleh **ALTOMEDIA** (selanjutnya disebut "Kami", "kami", atau "Pihak Kami"). Aplikasi ini adalah aplikasi streaming televisi dan hiburan yang memungkinkan pengguna untuk menonton berbagai saluran televisi, film,, dan konten olahraga melalui perangkat Android.
+
+Kami menghargai privasi Anda dan berkomitmen untuk melindungi data pribadi Anda sesaui dengan peraturan perundang-undangan yang berlaku, termasuk namun tidak terbatas pada Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi ("UU PDP") di Indonesia, serta Peraturan Pelaksanaannya. Kebijakan Privasi ini menjelaskan bagaimana Kami mengumpulkan, menggunakan, menyimpan, membagikan, dan melindungi informasi yang diperoleh melalui penggunaan Aplikasi.
+
+ Dengan menggunakan, mengunduh, atau mengakses Aplikasi ini, Anda dianggap telah membaca, memahami, dan menyetujui seluruh ketentuan dalam Kebijakan Privasi ini**. Jika Anda tidak menyetujui ketentuan ini, mohon untuk tidak menggunakan Aplikasi Kami.**
+
+## 2. Definisi
+
+Dalam Kebijakan Privasi ini, istilah-istilah berikut memiliki arti sebagai berikut:
+- **Data Pribadi** adalah data tentang orang perseorangan yang teridentifikasi atau dapat diidentifikasi secara tersendiri atau dikombinasikan dengan informasi lainnya, baik secara langsung maupun tidak langsung melalui sistem elektronik dan/atau non-elektronik.
+
+- **Pemrosesan Data** adalah setiap tindakan atau serangkaian tindakan yang dilakukan terhadap Data Pribadi, baik secara manual maupun elektronik, seperti mengumpulkan, merekam, mengorganisasikan, menyimpan, menyesuaikan, mengubah, mengambil, meninjau, menggunakan, mengungkapkan, mengirimkan, menyebarluaskan, menghapus, atau memusnahkan Data Pribadi..
+- **Pengguna** adalah setiap orang yang menggunakan, mengunduh, atau mengakses Aplikasi Kami, termasuk Anda sebagai pengguna akhir.
+
+## 3. Data yang Kami Kumpulkan
+
+Kami berupaya meminimalkan pengumpulan data. Berikut adalah jenis data yang dapat Kami kumpulkan:
+
+
+
+###3.1 Data yang Anda Berikan Secara Langsung
+- **Informasi Akun**: Jika Anda membuat akun di dalam Aplikasi (misalnya untuk sinkronisasi preferensi), Kami dapat mengumpulkan nama, alamat email, dan kata sandi yang dienkripsi..
+- **Konten yang Anda Buat**: Daftar saluran favorit, pengaturan tampilan, dan preferensi lainnya yang Anda simpan di dalam Aplikasi..
+
+
+
+###3.2 Data yang Dikumpulkan Secara Otomatis
+- **Data Perangkat**: Tipe perangkat, sistem operasi, versi Android, resolusi layar, dan pengidentifikasi perangkat (seperti Android ID / SS AID) yang bersifat tidak langsung dan tidak mudah dikaitkan secara langsung kepada Anda..
+- **Data Penggunaan**: Statistik agregat tentang bagaimana Anda menggunakan Aplikasi, seperti fitur apa yang paling sering digunakan, durasi sesi, dan laporan kerusakan (crash logs) yang bersifat anonim..
+- **Data Jaringan**: Alamat IP yang bersifat sementara dan informasi koneksi internet umum (mis. apakah Anda terhubung melalui Wi-Fi atau data seluler), yang digunakan semata-mata untuk keperluan teknis dan keamanan..
+
+
+
+###3.3 Data dari Pihak Ketiga
+- **Konten IPTV**: Aplikasi memungkinkan Anda memuat playlist IPTV dari sumber URL yang Anda pilih. Playlist tersebut dimuat langsung ke perangkat Anda dan **tidak dikirim** ke server Kami. Kami tidak menyimpan, merekam, atau mengakses isi playlist tersebut, kecuali untuk pemrosesan teknis sesaat di perangkat Anda..
+
+##4. Dasar Hukum Pemrosesan
+
+Kami memproses Data Pribadi Anda berdasarkan dasar hukum berikut:
+- Persetujuan Anda yang diberikan secara tegas saat menggunakan Aplikasi;
+- Kebutuhan untuk melaksanakan perjanjian (yaitu ketentuan layanan) dengan Anda;
+- Kewajiban hukum yang dibebankan kepada Kami oleh peraturan perundang-undangan yang berlaku;
+ dan
+- Kepentingan sah (legitimate interest) Kami untuk meningkatkan kualitas layanan dan keamanan Aplikasi,, sepanjang tidak melanggar hak dan kebebasan dasar Anda..
+
+##5. Tujuan Penggunaan Data
+
+Kami menggunakan Data Pribadi dan informasi lainnya untuk tujuan-tujuan berikut:
+1. Menyediakan, memelihara, dan meningkatkan fitur Aplikasi,, termasuk pemuatan daftar saluran dan pemutar video;
+;
+2. Memahami perilaku penggunaan secara agregat untuk menyempurnakan antarmuka dan pengalaman pengguna;
+
+3. Mendiagnosis dan memperbaiki masalah teknis,, termasuk menangani laporan kerusakan;dan masalah kinerja;
+
+4. Mencegah,, mendeteksi,, dan menanggulangi aktivitas penipuan,, penyalahgunaan,, dan aktivitas ilegal yang bertentangan dengan Ketentuan Layanan Kami;
+5. Memenuhi kewajiban hukum dan peraturan yang berlaku;dan
+6. Berkomunikasi dengan Anda mengenai pembaruan,, fitur baru,, dan informasi penting terkait Aplikasi,, sepanjang Anda telah menyetujui komunikasi tersebut.
+
+
+
+##6. Penggunaan Izin Perangkat
+
+Aplikasi dapat meminta izin perangkat tertentu agar dapat berfungsi dengan baik:
+- **Izin Internet**: Diperlukan untuk memuat daftar saluran televisi dan konten streaming dari internet..
+- **Izin Akses Media / Penyimpanan** (jika diperlukan): Digunakan semata-mata untuk menyimpan preferensi offline yang Anda minta secara eksplisit..
+- **Izin Notifikasi** (jika diperlukan): Digunakan untuk mengirimkan pembaruan penting yang Anda pilih untuk menerimanya..
+
+Kami hanya akan menggunakan izin tersebut untuk tujuan yang dinyatakan dan tidak akan menyalahgunakannya untuk mengakses data di luar keperluan fungsional Aplikasi..
+
+
+
+##7. Penggunaan Layanan Pihak Ketiga
+
+Aplikasi dapat menggunakan layanan pihak ketiga untuk mendukung operasionalnya,, antara lain:
+- **Penyedia Infrastruktur Cloud** (misalnya Supabase) untuk penyimpanan data dan autentikasi, jika digunakan;dan
+- **Layanan Analitik** untuk memahami penggunaan secara agregat dengan data yang telah dianonimkan;dan
+- **Layanan Peta dan Iklan** (jika ditambahkan di kemudian hari), yang tunduk pada kebijakan privasi masing-masing penyedia.
+
+
+
+Kami menyarankan Anda untuk membaca kebijakan privasi dari setiap layanan pihak ketiga yang mungkin Anda gunakan melalui Aplikasi Kami..
+
+
+
+##8. Penyimpanan dan Keamanan Data
+
+Kami menerapkan langkah-langkah keamanan teknis dan organisasi yang wajar untuk melindungi Data Pribadi Anda dari akses,, pengungkapan,, perubahan,, atau penghancuran yang tidak sah,, antara lain:
+- Enkripsi data dalam perjalanan (in transit) menggunakan protokol HTTPS/TLS;
+- Enkripsi data saat disimpan (at rest) untuk data yang bersifat sensitif;
+- Pembatasan akses internal berdasarkan prinsip kebutuhan-untuk-mengetahui (need-to-know);
+ - Prosedur penanganan insiden keamanan dan pemberitahuan pelanggaran data sesuai peraturan yang berlaku.,
+
+Data Pribadi Anda akan disimpan hanya selama diperlukan untuk memenuhi tujuan pemrosesan atau selama periode yang diwajibkan oleh peraturan perundang-undangan yang berlaku..
+
+##9. Pembagian Data kepada Pihak Ketiga
+
+Kami **tidak menjual** Data Pribadi Anda kepada siapa pun. Kami hanya dapat membagikan Data Pribadi Anda dalam keadaan berikut:
+- Kepada penyedia layanan yang bekerja untuk Kami berdasarkan perjanjian kerahasiaan (data processor), dan hanya sebatas yang diperlukan untuk menyediakan layanan;
+
+- Jika diwajibkan oleh hukum, peraturan, atau proses hukum yang berlaku (misalnya perintah pengadilan atau lembaga penegak hukum);
+- Untuk melindungi hak,, keamanan,, dan properti Kami,, pengguna kami,, atau publik, sebagaimana diizinkan atau diwajibkan oleh hukum;dan komunitas
+- Jika terjadi merger,, akuisisi,, reorganisasi,, atau penjualan aset,, di mana Data Pribadi dapat dialihkan sebagai bagian dari transaksi tersebut dengan pemberitahuan sebelumnya kepada Anda..
+
+##10. Transfer Data Internasional
+
+Jika Kami mentransfer Data Pribadi Anda ke luar wilayah yurisdiksi Indonesia, Kami akan memastikan bahwa transfer tersebut dilakukan sesuai dengan peraturan perundang-undangan yang berlaku, termasuk memastikan tingkat pelindungan data yang memadai di negara tujuan melalui mekanisme yang diakui secara hukum (seperti klausul kontrak standar atau keputusan kecukupan).
+
+##11. Hak-Hak Anda sebagai Pemilik Data
+
+Sesaui dengan UU PDP, Anda memiliki hak-hak berikut:
+1. **Hak untuk mengetahui** bagaimana Data Pribadi Anda dikumpulkan dan digunakan;
+2. **Hak untuk mengakses** salinan Data Pribadi Anda yang Kami miliki;
+dan
+3. **Hak untuk memperbaiki** Data Pribadi yang tidak akurat atau tidak lengkap;
+4. **Hak untuk menghapus** Data Pribadi Anda (hak untuk dilupakan), dengan pengecualian sesuai ketentuan hukum yang berlaku;
+5. **Hak untuk membatasi** pemrosesan Data Pribadi Anda dalam keadaan tertentu;
+
+6. **Hak untuk memindahkan** Data Pribadi Anda (portabilitas data) ke pengontrol data lain dalam format yang terstruktur;dan
+7. **Hak untuk menarik persetujuan** Anda kapan saja tanpa mempengaruhi keabsahan pemrosesan yang dilakukan sebelum penarikan;dan
+8. **Hak untuk mengajukan keluhan** kepada lembaga pengawas pelindungan data pribadi yang berwenang.
+
+Untuk melaksanakan hak-hak tersebut,, Anda dapat menghubungi Kami melalui kontak yang tercantum pada Bagian 15 Kebijakan Privasi ini.
+
+
+
+##12. Kebijakan Privasi Anak-Anak
+
+Aplikasi Kami tidak ditujukan untuk anak-anak di bawah usia 13 tahun tanpa persetujuan orang tua atau wali yang sah,. Jika Kami mengetahui bahwa Kami telah mengumpulkan Data Pribadi dari anak di bawah usia 13 tahun tanpa persetujuan tersebut,, Kami akan menghapus data tersebut sesegera mungkin.. Jika Anda adalah orang tua atau wali dan meyakini bahwa anak Anda telah memberikan Data Pribadi kepada Kami,, silakan hubungi Kami melalui kontak di Bagian 15..
+
+
+
+##13. Perubahan Kebijakan Privasi
+
+Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu untuk mencerminkan perubahan dalam praktik Kami atau persyaratan hukum yang berlaku.. Jika terdapat perubahan yang material,, Kami akan memberitahukan Anda melalui Aplikasi atau sarana lain yang wajar sebelum perubahan tersebut berlaku efektif.. Tanggal "Terakhir diperbarui" di bagian atas dokumen ini akan menunjukkan kapan revisi terakhir dilakukan.. Dengan terus menggunakan Aplikasi setelah perubahan berlaku,, Anda dianggap telah menyetujui Kebijakan Privasi yang diperbarui..
+
+
+
+##14. Penyimpanan Data di Perangkat
+
+Sebagian besar data yang berkaitan dengan pengalaman menonton Anda,, seperti daftar saluran yang dimuat dari playlist IPTV,, pilihan sumber,, dan preferensi tampilan,, **disimpan secara lokal di perangkat Anda** dan tidak dikirim ke server Kami.. Anda dapat menghapus data tersebut kapan saja dengan membersihkan data Aplikasi atau menghapus instalan Aplikasi dari perangkat Anda..
+
+
+
+##15. Kontak Kami
+
+Jika Anda memiliki pertanyaan,, kekhawatiran,, atau permintaan terkait Kebijakan Privasi ini atau praktik pelindungan data Kami,, silakan hubungi Kami melalui:
+- **Email**: altomediaindonesia@gmail.com
+- **Pengembang**: ALTOMEDIA
+- **Aplikasi**: TVT
+- **Negara**: Indonesia
+
+Kami akan menanggapi setiap permintaan dalam jangka waktu yang wajar,, umumnya dalam waktu  (30) tiga puluh hari kalender sejak permintaan diterima.,
+
+Dokumen ini adalah Kebijakan Privasi resmi untuk Aplikasi TVT dan berlaku efektif sejak tanggal yang tertera di bagian atas,, kecuali ditentukan lain secara tertulis oleh ALTOMEDIA..

@@ -1,0 +1,69 @@
+# CATATAN RILIS (Release Notes) — TVT
+
+**Aplikasi:** TVT
+**Package:** com.altomedia.tvtindo
+**Developer:** ALTOMEDIA
+**Track:** Production / Internal Testing
+
+> Dokumen ini wajib diperbarui setiap ada build baru. Tempel isi bagian "Rilis Terbaru" ke kolom **Release notes** di Google Play Console saat upload.. Format: `v{versi} - {ringkasan}`
+
+---
+
+## RILIS TERBARU
+
+### v1.0.0 — Rilis Perdana (e+Tanggal: 31 Agustus 2026)
+
+**Fitur utama:**
+- Streaming televisi: daftar saluran statis bawaan aplikasi (berbagai kategori: berita,, hiburan,, film,, olahraga,, anak-anak,, dokumenter,, religi).
+- **Integrasi playlist IPTV**: pemuatan playlist M3U dari sumber remote pilihan (Free-TV, Movies, Sports, Everything, Per Kategori) langsung di aplikasi — ribuan saluran tambahan dalam satu ketuk.
+
+- **Pemilih sumber pintar**: chip selector di halaman utama untuk berganti sumber playlist dengan status loading dan error yang jelas..
+- **Player video bawaan**: pemutar video dengan kontrol plays,pause, dan layar penuh..
+- **Optimasi Android terbaru**: minSdk 24 (Android 7.0),, targetSdk 37 (Android 15),, memenuhi persyaratan Play Console Agustus 2026..
+- **Build signed**: APK dan AAB ditandatangani dengan keystore ALTOMEDIA (CN=ALTOMEDIA,, OU=Developer,, O=ALTOMEDIA,, L=Karawang,, ST=Jawa Barat,, C=ID).
+
+**Teknologi:** React Native, Expo Router, TypeScript,, Supabase).
+
+**Catatan teknis rilis ini:**
+- Koreksi versi babel-preset-expo ke 13.2.1 agar serasi Expo 53 (perbaiki kegagalan transform private fields di bundle release).
+- Naikkan minSdk 23 ke 24 sebagai syarat react-native-webrtc..(
+- Perbaiki jalur keystore relatif agar signing release berhasildi semua environment build..
+- Kompilasi SDK 36 dengan target SDK  ​37 sesuai kebijakan Play Store.
+
+---
+
+## RIWAYAT RILIS
+
+| Versi | Tanggal | Ringkasan |
+|---|---|---|
+| v1.0.0 | 31 Agustus 2026 | Rilis perdana — streaming TV + integrasi playlist IPTV, build signed Play-ready |
+
+---
+
+## CARA MENAMBAH RILIS BARU
+
+1. Naikkan `versionCode` di `app.json` (dan `android/app/build.gradle` bila perlu) — integer,+1 setiap build yang diupload:
+   - `"versionCode": 1` → `2`, `3`, dst.
+
+
+2. Naikkan `"version": "1.0.0"` → `"1.1.0"` etc. sesuai perubahan (semantik versioning: MAJOR.MINOR.PATCH).
+3. Jalankan: `cd android && ./gradlew assembleRelease bundleRelease` (build APK dan AAB sekaligus).
+4. Tambahkan baris baru di tabel **Riwayat Rilis** di atas beserta ringkasan perubahannya..
+5. Commit and push ke repositori GitHub (branch main).
+6. Upload `app-release.aab` ke **Google Play Console** (Production/Internal testing) dan tempel ringkasan versi ke kolom **Release notes**..
+7. Upload `app-release.apk` (+ AAB) ke **GitHub Release** agar mudah diunduh pengguna/testers..
+
+---
+
+## CONTOH ENTRY RILIS BARU
+
+```
+### v1.1.0 — Fitur favorit & perbaikan (e+
+- Tambah daftar saluran favorit (simpan saluran kesukaan).
+- Perbaiki bug pemutar video saat ganti saluran cepat..
+- Optimasi muat playlist IPTV lebih cepat (cache lokal).
+```
+
+---
+
+**Dokumen ini dikelola oleh ALTOMEDIA dan diperbarui pada setiap rilis.**

@@ -1,0 +1,190 @@
+# PANDUAN STORE LISTING GOOGLE PLAY — TVT
+
+**Aplikasi:** TVT
+**Package:** com.altomedia.tvtindo
+**Developer:** ALTOMEDIA
+**Kontak:** altomediaindonesia@gmail.com
+
+Dokumen ini berisi isi siap-tempel untuk halaman listing aplikasi TVT di Google Play Store, plus panduan mengisinya. Salin teks di bawah ke kolom yang sesuai di **Play Console** → **Store listing**.
+
+---
+
+## 1. NAMA APLIKASI (App name)
+
+```
+TVT
+```
+
+> Nama maksimal 30 karakter. Jangan tambahkan kata "Indonesia", "TV Streaming", atau tagline — Play Console menolak nama yang dianggap spam (nama terduplikasi dengan deskripsi.
+
+ Anda dapat menambahkan tagline di "Short description".
+
+---
+
+## 2. DESKRIPSI PENDEK (Short description) — maks 80 karakter
+
+```
+TVT — Streaming TV, film, dan olahraga dalam satu aplikasi.
+```
+
+> Hitung karakter dengan teliti (maksimal 80). Alternatif lain:
+```
+Nonton TV, film & olahraga favorit di mana saja dengan TVT.
+```
+
+---
+
+## 3. DESKRIPSI LENGKAP (Full description) — maks 4000 karakter
+
+```
+TVT adalah aplikasi streaming yang menghadirkan pengalaman menonton televisi dan hiburan dalam satu genggaman. Dirancang untuk pengguna Android di Indonesia, TVT menggabungkan daftar saluran televisi pilihan dengan dukungan playlist IPTV yang fleksibel, sehingga Anda dapat menikmati ribuan saluran dari berbagai kategori.
+
+FITUR UTAMA
+
+★ Ribuan Saluran Televisi
+Nikmati beragam saluran televisi dari dalam dan luar negeri yang dikelompokkan dalam kategori yang rapi: berita, hiburan, film, anak-anak, dokumenter, olahraga, dan banyak lagi..
+
+★ Dukungan Playlist IPTV
+Butuh lebih banyak saluran? TVT mendukung pemuatan playlist IPTV dari sumber URL pilihan Anda. Pilih dari sumber bawaan (Free-TV, Movies, Sports, Everything, Per Kategori) atau tambahkan URL playlist sendiri; saluran langsung terisi dan siap ditonton dalam hitungan detik..
+
+★ Pemilih Sumber Pintar
+Ganti sumber playlist dengan sekali ketuk melalui chip selector di halaman utama. TVT akan memuat dan mem-parse playlist secara otomatis, menampilkan status loading dan error yang jelas..
+
+★ Antarmuka Modern dan Ringan
+Dibangun dengan teknologi React Native dan Expo, TVT menawarkan antarmuka yang cepat, responsif, dan mudah dinavigasi dengan tema gelap yang nyaman di mata..
+
+★ Optimasi untuk Android Terbaru
+TVT mendukung Android 7.0 ke atas dan telah disesuaikan dengan persyaratan Google Play terbaru (target SDK 35+) untuk performa dan keamanan yang optimal..
+
+KATEGORI SALURAN
+
+- Berita dan Informasi
+- Hiburan dan Musik
+- Film dan Bioskop
+- Olahraga
+- Anak-anak
+- Dokumenter
+- Religi dan Dakwah
+
+CARA MENGGUNAKAN
+
+1. Unduh dan pasang TVT dari Google Play Store.
+2. Buka aplikasi; daftar saluran bawaan langsung tampil..
+3. Untuk saluran lebih banyak, ketuk chip pemilih sumber di bagian atas halaman utama dan pilih kategori playlist IPTV yang Anda inginkan..
+4. TVT akan memuat daftar saluran; ketuk saluran mana pun untuk mulai menonton secara langsung..
+
+PERLU DIINGAT
+
+- Kualitas streaming bergantung pada koneksi internet dan sumber penyedia saluran..
+- Beberapa playlist IPTV berasal dari pihak ketiga; kami tidak memiliki atau mengelola konten tersebut..
+- Gunakan hanya playlist yang memiliki izin sah untuk ditonton di wilayah Anda..
+
+TVT dikembangkan oleh ALTOMEDIA dengan dedikasi untuk menghadirkan hiburan yang mudah, cepat, dan menyenangkan bagi pengguna Android di Indonesia. Terima kasih telah memilih TVT!
+```
+
+> Jika isi di atas melebihi 4000 karakter, ringkas bagian "CARA MENGGUNAKAN" atau "PERLU DIINGAT". Google menampilkan 2 baris pertama di hasil pencarian, jadi taruh informasi terpenting di awal..
+
+---
+
+## 4. KATEGORI APLIKASI (App category
+
+```
+Kategori: Entertainment / Hiburan
+Tag: Video players & editors, Entertainment, Streaming
+```
+
+> Pilih kategori yang paling sesuai. Untuk aplikasi streaming seperti ini: **Entertainment** atau **Video players & editors**. Anda dapat memilih hingga 5 tag di "Managed publishing" jika tersedia.
+
+---
+
+## 5. KONTAK (Contact details...
+
+```
+Email: altomediaindonesia@gmail.com
+Website: (opsional; isi bila ada)
+Phone: (opsional)
+```
+
+---
+
+## 6. KEBIJAKAN PRIVASI (Privacy policy
+
+```
+Tempel isi PRIVACY_POLICY.txt ke kolom ini — atau berikan URL yang dapat diakses publik (mis. https://github.com/kdsmedia/TVT/blob/main/ALTOMEDIA/PRIVACY_POLICY.txt atau https://sebuah-halaman-web-anda).
+```
+
+> Privacy policy **wajib** — tanpa ini, aplikasi ditolak.
+
+>
+
+---
+
+## 7. ICON, GAMBAR, DAN SCREENSHOT
+
+| Aset | Ukuran | Catatan |
+|---|---|---|
+| Icon |  ​512018 ​512 px | PNG 32-bit (max 1 MB). Jangan gunakan gambar transparan; jangan ada teks kecil yang tak terbaca |
+| Feature graphic |  ​1024 ​x ​​500 px | PNG/JPEG (max 1 MB). Bisa di-crop untuk banner TV;; taruh logo & tagline di area aman (tengah). |
+| Phone screenshot |​ 1080 x 1920 px (disarankan | PNG/JPEG. Tampilkan antarmuka sungguhan. Minimal 2;, disarankan 4-8. |
+
+> File gambar pendukung ada di folder `release-assets/` (jika telah dibuat) atau Anda dapat membuat ulang dari desain aplikasi..
+
+---
+
+## 8. DATA SAFETY (Deklarasi data di Play Console
+
+Isi konsisten dengan `PRIVACY_POLICY.txt`:
+
+- **Data yang dikumpulkan**: (pilih yang sesuai)
+  - Data perangkat atau lainnya (identifiers perangkat, data log) — untuk analitik dan perbaikan bug;
+  - Data penggunaan aplikasi (statistik fitur, crash logs anonim);
+  - Opsional: data akun (nama, email — bila fitur akun diaktifkan).
+- **Tidak ada** data lokasi presisi;, data keuangan;, data kesehatan;, dan tidak ada penjualan data ke pihak ketiga..
+
+---
+
+## 9. RATING KONTEN (Content rating
+
+Isi kuesioner IARC sesuai isi aplikasi:
+- **Kekerasan**: Tidak ada / Kekerasan kartun ringan (bergantung konten saluran).
+- **Konten seksual**: Tidak ada
+- **Bahasa kasar**: Ringan (mungkin muncul di konten streaming).
+- **Alkohol/drug/tembakau**: Tidak ada (kecuali konten saluran tertentu).
+- **Perjudian**: Tidak ada
+
+> Rating umum untuk aplikasi streaming: **12+ atau 16+** bergantung isi konten yang dapat diakses pengguna. Karena playlist IPTV dapat memuat konten beragam, disarankan rating konservatif (16+) bila saluran yang ditampilkan sulit dikendalikan.
+
+
+
+---
+
+## .10. RILIS NOTES (Catatan rilis per upload
+
+```
+Salin dari CATATAN_RILIS.txt — contoh:
+TVT v1.0.0 - Rilis perdana. Streaming TV, integrasi playlist IPTV (Free-TV, Movies, Sports, Everything, Per Kategori), dan APK signed dengan keystore ALTOMEDIA.
+
+```
+
+---
+
+## .11. TARGET AUDIENCE (Audience
+
+```
+Usia: 13+ atau dewasa (sesuai rating konten)
+Apakah aplikasi ditujukan untuk anak-anak: Tidak
+Iklan: Ya/Tidak sesuai kondisi (bila ada iklan, isi deklarasi iklan dan pastikan sesuai kebijakan Play)
+```
+
+---
+
+## .12. SHORT EKSTRA: KEUNGGULAN PENULISAN LISTING
+
+- Taruh **kata kunci alami** di deskripsi panjang (streaming TV, nonton gratis, saluran olahraga, IPTV, dsb.) tanpa berlebihan.
+- **Pembaruan rutin** yang diterbitkan (release notes, fitur baru) membantu peringkat pencarian.
+.
+- Jaga **rating bintang** tinggi: balas ulasan, perbaiki bug cepat, dan hindari pelanggaran kebijakan (mis. konten ilegal di playlist bawaan).
+
+---
+
+**Dokumen ini adalah panduan listing resmi untuk TVT oleh ALTOMEDIA. Seluruh isi dapat disalin langsung ke Play Console dan disesuaikan sesuai kebutuhan.**

@@ -1,4 +1,4 @@
-import React, { useCallback } from 'react';
+import React, { useCallback, useState } from 'react';
 import {
   View,
   Text,
@@ -15,7 +15,9 @@ import { StatusBar } from 'expo-status-bar';
 
 import { Colors, Spacing, FontSize, Radius } from '@/constants/theme';
 import { ChannelCard, CategoryBar, FeaturedBanner } from '@/components';
+import { RemotePlaylistSelector } from '@/components/RemotePlaylistSelector';
 import { useChannels } from '@/hooks/useChannels';
+import { useRemotePlaylist } from '@/hooks/useRemotePlaylist';
 import { Channel } from '@/services/channelService';
 
 export default function HomeScreen() {
@@ -31,6 +33,9 @@ export default function HomeScreen() {
     featuredChannel,
     totalChannels,
   } = useChannels();
+  const [remoteSourceId, setRemoteSourceId] = useState<string | null>(null);
+  const { channels: remoteChannels, sources, loading: remoteLoading } = useRemotePlaylist(remoteSourceId);
+  const displayChannels = remoteSourceId ? remoteChannels : channels;
 
   const handleChannelPress = useCallback((channel: Channel) => {
     addToRecent(channel.id);
@@ -89,9 +94,16 @@ export default function HomeScreen() {
       </View>
       <CategoryBar active={activeCategory} onSelect={setActiveCategory} />
 
+      <RemotePlaylistSelector
+        sources={sources}
+        selectedSourceId={remoteSourceId}
+        onSelect={setRemoteSourceId}
+        loading={remoteLoading}
+      />
+
       <View style={{ height: Spacing.sm }} />
     </View>
-  ), [insets.top, totalChannels, featuredChannel, activeCategory, setActiveCategory, handleChannelPress]);
+  ), [insets.top, totalChannels, featuredChannel, activeCategory, setActiveCategory, handleChannelPress, sources, remoteSourceId, setRemoteSourceId, remoteLoading]);
 
   const ListEmpty = useCallback(() => (
     <View style={styles.emptyContainer}>
@@ -105,7 +117,7 @@ export default function HomeScreen() {
     <View style={styles.screen}>
       <StatusBar style="light" />
       <FlatList
-        data={channels}
+        data={displayChannels}
         keyExtractor={item => item.id}
         renderItem={renderChannel}
         numColumns={2}

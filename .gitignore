@@ -39,3 +39,4 @@ yarn-error.*
 app-example
 keystore.properties
 *.jks
+*.apk

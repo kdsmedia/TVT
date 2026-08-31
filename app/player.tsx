@@ -148,7 +148,6 @@ export default function PlayerScreen() {
       <Pressable
         style={[styles.playerArea, { height: playerHeight }]}
         onPress={handleScreenTap}
-        activeOpacity={1}
       >
         {/* Video */}
         <VideoView
